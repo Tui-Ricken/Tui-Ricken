@@ -2,8 +2,9 @@
 
 
 ## 🚀 Sobre mim
-* Eu estou cursando Engenharia de Software 2/4 no Instituto Federal do Paraná(IFPR)-Campus Paranvaí.
-* Estou estudando Java
+* Eu estou cursando Engenharia de Software 3/4 no Instituto Federal do Paraná(IFPR)-Campus Paranvaí.
+* Estou estudando Dart
+
 
 
 
